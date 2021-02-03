@@ -1,5 +1,3 @@
-package asd;
-
 import java.util.Scanner; // import the Scanner class 
 
 class scan {
