@@ -1,5 +1,3 @@
-package asd;
-
 import java.util.ArrayList;//import array list class
 
 public class mainarraylist {
