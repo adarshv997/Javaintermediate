@@ -1,4 +1,3 @@
-package asd;
 
 class OuterClass {
     int x = 2;  //outerclass
