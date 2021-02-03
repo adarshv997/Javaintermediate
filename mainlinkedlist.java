@@ -1,5 +1,3 @@
-package asd;
-
 import java.util.LinkedList;//import linkedlist class
 
 public class mainlinkedlist {
