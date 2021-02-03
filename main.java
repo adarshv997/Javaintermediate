@@ -1,4 +1,3 @@
-package asd;
 // Abstract class
 abstract class Anim {
     // Abstract method 
