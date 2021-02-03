@@ -1,4 +1,3 @@
-package asd;
 //enum class
 enum Level { //represent gorup of constants
     LOW,
