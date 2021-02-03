@@ -1,4 +1,3 @@
-package asd;
 // Interface
 interface Anim {
     // Abstract method 
